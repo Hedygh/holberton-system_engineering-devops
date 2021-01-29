@@ -1,5 +1,3 @@
 	This project is about permissions shell scripts.
-The file 1 and 2 prints the user and groups.
-Files from 3 to 10 is permissions managements and ownership changes.
-11 to 16 makes changes in the ownership as well as permissions under more specific conditions.
-17 is Star Wars. 
+Files are can be use to print the user and groups, permissions managements and ownership changes as well as making changes from the ownership and permissions under more specific conditions.
+File 100 is Star Wars display on terminal. 
