@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c -1 | tr '\n' ' ' | tr -d ' '
+echo $(cut -c -1) | tr -d ' '
