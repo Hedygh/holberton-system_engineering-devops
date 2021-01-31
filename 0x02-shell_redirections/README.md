@@ -1,4 +1,4 @@
-		 <h1> Shell Redirections and filters : </h1>
+		 # Shell Redirections and filters :
 
 The followings lists is made according to files names and scripts effects. 
 
