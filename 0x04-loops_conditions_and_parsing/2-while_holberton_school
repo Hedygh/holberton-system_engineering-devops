@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Display "Holberton School" 10 times using while loop
+i=0
+while [ $i -ne 10 ]
+do
+	echo "Holberton School"
+	(( i += 1 ))
+done
