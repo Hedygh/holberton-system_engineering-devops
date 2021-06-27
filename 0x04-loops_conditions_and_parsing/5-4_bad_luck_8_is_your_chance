@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Display "Holberton School" 10 times using while loop
+# at the 9nth iteration display Hi
+i=0
+while [ $i -ne 10 ]
+do
+	if [ $i -eq 3 ]
+	then
+		echo "bad luck"
+	elif [ $i -eq 7 ]
+	then
+		echo "good luck"
+	else
+		echo "Holberton School"
+	fi
+	(( i += 1 ))
+done
