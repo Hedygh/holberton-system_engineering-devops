@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Display content of dir in a list format
+for f in *
+do
+	echo "$f" | cut -d "-" -f 2
+done
